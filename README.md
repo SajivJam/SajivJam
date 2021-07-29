@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SajivJam
-- 👀 I’m interested in ... Web Dev, cyber sec, and rocket science
+- 👀 I’m interested in ... Web Dev, cyber sec, and aviation
 - 🌱 I’m currently learning ... Precalc and Java
 
 <!---
