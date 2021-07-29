@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SajivJam
 - 👀 I’m interested in ... Web Dev, cyber sec, and rocket science
-- 🌱 I’m currently learning ... Precalc and C++
+- 🌱 I’m currently learning ... Precalc and Java
 
 <!---
 SajivJam/SajivJam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
