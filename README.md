@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @SajivJam
-- 👀 I’m interested in ... Web Dev, cyber sec, and aviation
-- 🌱 I’m currently learning ... Precalc and Java
+Hi! I'm Sajiv! I am an amateur programmer with interests in cyber sec and aviation.
+I'm also a connoisseur of mathematics and physics, and I enjoy playing video games and collecting antique model cars. 
 
 <!---
 SajivJam/SajivJam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
